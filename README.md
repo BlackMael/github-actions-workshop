@@ -1,1 +1,1 @@
-# Lesson 8 - Create a JavaScript Action
+# Lesson 8 - Explore Continuous Integration
