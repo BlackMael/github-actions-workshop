@@ -1,1 +1,1 @@
-# Lesson 6 - Control Job Execution in GitHub Actions
+# Lesson 7 - Explore, Create, and Use an Action
