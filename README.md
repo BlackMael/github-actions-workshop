@@ -1,1 +1,1 @@
-# Lesson 5 - Review Advanced GitHub Actions Workflow Features
+# Lesson 6 - Control Job Execution in GitHub Actions
