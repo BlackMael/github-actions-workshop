@@ -37,7 +37,7 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: oven/bin:slim
+      image: oven/bun:slim
 
     steps:
       - name: define output variable
