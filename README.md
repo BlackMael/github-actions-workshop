@@ -1,1 +1,1 @@
-# Lesson 7 - Explore, Create, and Use an Action
+# Lesson 8 - Create a JavaScript Action
