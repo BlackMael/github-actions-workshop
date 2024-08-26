@@ -1,0 +1,25 @@
+name: containerAction
+description: calculator to test a container containerAction
+
+inputs:
+  number1:
+    description: number 1
+    required: true
+    default: "0"
+
+  number2:
+    description: number 2
+    required: true
+    default: "0"
+
+outputs:
+  result:
+    description: output of the sum of the two numbers
+
+runs:
+  using: docker
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.number1 }}    
+    - ${{ inputs.number2 }}
+    
